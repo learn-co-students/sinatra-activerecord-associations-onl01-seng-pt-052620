@@ -1,3 +1,4 @@
+# Learn made me put this here to submit
 ENV['SINATRA_ENV'] ||= "development"
 
 require 'bundler/setup'
